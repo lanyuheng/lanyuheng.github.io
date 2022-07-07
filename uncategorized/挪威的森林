@@ -21,28 +21,28 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"lanyuheng.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.12.2","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+    <meta name="description" content="挪威的森林作者: 村上春树标签: 文学作品看完的日子: December 10, 2020评分: ⭐⭐⭐ 少时不懂寂寞沙洲冷，如今读得晖晖冬日微，这般孤冷的书竞让我读出了暖意，或许真是越长大越温柔了。">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hello World">
-<meta property="og:url" content="http://lanyuheng.github.io/uncategorized/hello-world">
+<meta property="og:title" content="Lan&#39;s Lab">
+<meta property="og:url" content="http://lanyuheng.github.io/uncategorized/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97">
 <meta property="og:site_name" content="Lan&#39;s Lab">
-<meta property="og:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+<meta property="og:description" content="挪威的森林作者: 村上春树标签: 文学作品看完的日子: December 10, 2020评分: ⭐⭐⭐ 少时不懂寂寞沙洲冷，如今读得晖晖冬日微，这般孤冷的书竞让我读出了暖意，或许真是越长大越温柔了。">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2022-07-06T02:12:09.790Z">
-<meta property="article:modified_time" content="2022-07-06T02:10:04.572Z">
+<meta property="article:published_time" content="2022-07-07T03:50:26.356Z">
+<meta property="article:modified_time" content="2022-04-27T02:31:07.051Z">
 <meta property="article:author" content="Yuheng Lan">
 <meta property="article:tag" content="math">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="http://lanyuheng.github.io/uncategorized/hello-world">
+<link rel="canonical" href="http://lanyuheng.github.io/uncategorized/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://lanyuheng.github.io/uncategorized/hello-world","path":"uncategorized/hello-world","title":"Hello World"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://lanyuheng.github.io/uncategorized/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97","path":"uncategorized/挪威的森林","title":""}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>Hello World | Lan's Lab</title>
+<title> | Lan's Lab</title>
   
 
 
@@ -118,7 +118,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Quick-Start"><span class="nav-number">1.</span> <span class="nav-text">Quick Start</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Create-a-new-post"><span class="nav-number">1.1.</span> <span class="nav-text">Create a new post</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Run-server"><span class="nav-number">1.2.</span> <span class="nav-text">Run server</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Generate-static-files"><span class="nav-number">1.3.</span> <span class="nav-text">Generate static files</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Deploy-to-remote-sites"><span class="nav-number">1.4.</span> <span class="nav-text">Deploy to remote sites</span></a></li></ol></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97"><span class="nav-number">1.</span> <span class="nav-text">挪威的森林</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -181,7 +181,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://lanyuheng.github.io/uncategorized/hello-world">
+    <link itemprop="mainEntityOfPage" href="http://lanyuheng.github.io/uncategorized/%E6%8C%AA%E5%A8%81%E7%9A%84%E6%A3%AE%E6%9E%97">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.jpg">
@@ -194,12 +194,12 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="Hello World | Lan's Lab">
+      <meta itemprop="name" content=" | Lan's Lab">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          Hello World
+          
         </h1>
 
         <div class="post-meta-container">
@@ -229,19 +229,8 @@
     
     
     <div class="post-body" itemprop="articleBody">
-        <p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+        <h1 id="挪威的森林"><a href="#挪威的森林" class="headerlink" title="挪威的森林"></a>挪威的森林</h1><p>作者: 村上春树<br>标签: 文学作品<br>看完的日子: December 10, 2020<br>评分: ⭐⭐⭐</p>
+<p>少时不懂寂寞沙洲冷，如今读得晖晖冬日微，这般孤冷的书竞让我读出了暖意，或许真是越长大越温柔了。</p>
 
     </div>
 
@@ -255,10 +244,13 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
+                <a href="/uncategorized/%E7%BE%8E%E4%B9%8B%E5%9C%B0%E5%9B%BE" rel="prev" title="">
+                  <i class="fa fa-chevron-left"></i> 
+                </a>
             </div>
             <div class="post-nav-item">
-                <a href="/uncategorized/1984" rel="next" title="1984">
-                  1984 <i class="fa fa-chevron-right"></i>
+                <a href="/uncategorized/%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8" rel="next" title="">
+                   <i class="fa fa-chevron-right"></i>
                 </a>
             </div>
           </div>
