@@ -21,15 +21,15 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"lanyuheng.com","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.12.2","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="Welcome to Lan’s Lab! I am a post-graduate student and my research interest are using mathematics and computer science as tools and finance as objects to carry out theoretical and practical research a">
+    <meta name="description" content="Welcome to Lan’s Lab! I am a post-graduate student and my educational background is the intersection of PDE, BSDEs, computational mathematics and machine learning. So I mainly focus on using mathemati">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hello World">
 <meta property="og:url" content="http://lanyuheng.com/uncategorized/hello-world">
 <meta property="og:site_name" content="Lan&#39;s Lab">
-<meta property="og:description" content="Welcome to Lan’s Lab! I am a post-graduate student and my research interest are using mathematics and computer science as tools and finance as objects to carry out theoretical and practical research a">
+<meta property="og:description" content="Welcome to Lan’s Lab! I am a post-graduate student and my educational background is the intersection of PDE, BSDEs, computational mathematics and machine learning. So I mainly focus on using mathemati">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2022-07-06T02:12:09.790Z">
-<meta property="article:modified_time" content="2022-07-18T12:49:03.149Z">
+<meta property="article:modified_time" content="2022-07-18T13:39:15.638Z">
 <meta property="article:author" content="Yuheng Lan">
 <meta property="article:tag" content="math">
 <meta name="twitter:card" content="summary">
@@ -218,9 +218,9 @@
     
     
     <div class="post-body" itemprop="articleBody">
-        <p>Welcome to <a target="_blank" rel="noopener" href="https://lanyuheng.github.io/">Lan’s Lab</a>! I am a post-graduate student and my research interest are using mathematics and computer science as tools and finance as objects to carry out theoretical and practical research at the intersection of these fields.</p>
+        <p>Welcome to <a target="_blank" rel="noopener" href="https://lanyuheng.github.io/">Lan’s Lab</a>! I am a post-graduate student and my educational background is the intersection of PDE, BSDEs, computational mathematics and machine learning. So I mainly focus on using mathematics and computer science as tools to conduct theoretical research in these fields.</p>
 <p>You can get to know me in all aspects through this website.</p>
-<p>You can also get a quicker understanding from my <a target="_blank" rel="noopener" href="https://maipdf.com/doc/a10201484133@pdf"><em><strong>CV</strong></em></a>.</p>
+<p>You can also get a quicker understanding from my <a target="_blank" rel="noopener" href="https://maipdf.com/doc/a16188514683@pdf"><em><strong>CV</strong></em></a>.</p>
 <p>This website is divided into the following six sections.</p>
 <ul>
 <li><p><a href="/Education-Background">Education Background</a></p>
