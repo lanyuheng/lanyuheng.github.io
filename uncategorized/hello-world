@@ -21,15 +21,15 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"lanyuheng.com","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.12.2","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="Welcome to Lan’s Lab! I am a post-graduate student and my educational background is the intersection of PDE, BSDEs, computational mathematics and machine learning. So I mainly focus on using mathemati">
+    <meta name="description" content="Welcome! I am a graduate student at Shandong University and my educational background spans the fields of Computational Mathematics, Pure Mathematics and Financial Mathematics. I’m interested in the i">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hello World">
 <meta property="og:url" content="http://lanyuheng.com/uncategorized/hello-world">
-<meta property="og:site_name" content="Lan&#39;s Lab">
-<meta property="og:description" content="Welcome to Lan’s Lab! I am a post-graduate student and my educational background is the intersection of PDE, BSDEs, computational mathematics and machine learning. So I mainly focus on using mathemati">
+<meta property="og:site_name" content="Yuheng Lan">
+<meta property="og:description" content="Welcome! I am a graduate student at Shandong University and my educational background spans the fields of Computational Mathematics, Pure Mathematics and Financial Mathematics. I’m interested in the i">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2022-07-06T02:12:09.790Z">
-<meta property="article:modified_time" content="2022-07-19T11:45:37.166Z">
+<meta property="article:modified_time" content="2022-09-26T07:04:07.375Z">
 <meta property="article:author" content="Yuheng Lan">
 <meta property="article:tag" content="math">
 <meta name="twitter:card" content="summary">
@@ -42,7 +42,7 @@
 <script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://lanyuheng.com/uncategorized/hello-world","path":"uncategorized/hello-world","title":"Hello World"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>Hello World | Lan's Lab</title>
+<title>Hello World | Yuheng Lan</title>
   
 
 
@@ -72,7 +72,7 @@
 
     <a href="/" class="brand" rel="start">
       <i class="logo-line"></i>
-      <p class="site-title">Lan's Lab</p>
+      <p class="site-title">Yuheng Lan</p>
       <i class="logo-line"></i>
     </a>
       <p class="site-subtitle" itemprop="description">Math is forever</p>
@@ -87,7 +87,7 @@
 
 
 <nav class="site-nav">
-  <ul class="main-menu menu"><li class="menu-item menu-item-introduction"><a href="/" rel="section">Introduction</a></li><li class="menu-item menu-item-education-background"><a href="/Education-Background/" rel="section">Education Background</a></li><li class="menu-item menu-item-research-experience"><a href="/Experience/" rel="section">Research Experience</a></li><li class="menu-item menu-item-learning-experience"><a href="/learning/" rel="section">Learning Experience</a></li><li class="menu-item menu-item-programming-projects"><a href="/Projects/" rel="section">Programming Projects</a></li><li class="menu-item menu-item-extracurricular-activities"><a href="/Activities/" rel="section">Extracurricular Activities</a></li><li class="menu-item menu-item-interests-and-hobbies"><a href="/Hobbies/" rel="section">Interests and Hobbies</a></li>
+  <ul class="main-menu menu"><li class="menu-item menu-item-introduction"><a href="/" rel="section">Introduction</a></li><li class="menu-item menu-item-education-background"><a href="/Education-Background/" rel="section">Education Background</a></li><li class="menu-item menu-item-research-experience"><a href="/Experience/" rel="section">Research Experience</a></li><li class="menu-item menu-item-programming-projects"><a href="/Projects/" rel="section">Programming Projects</a></li><li class="menu-item menu-item-modelling-competition"><a href="/Competition/" rel="section">Modelling Competition</a></li><li class="menu-item menu-item-interests-and-hobbies"><a href="/Hobbies/" rel="section">Interests and Hobbies</a></li>
   </ul>
 </nav>
 
@@ -178,12 +178,12 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Lan's Lab">
+      <meta itemprop="name" content="Yuheng Lan">
       <meta itemprop="description" content="">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="Hello World | Lan's Lab">
+      <meta itemprop="name" content="Hello World | Yuheng Lan">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
@@ -218,48 +218,44 @@
     
     
     <div class="post-body" itemprop="articleBody">
-        <p>Welcome to <a target="_blank" rel="noopener" href="https://lanyuheng.github.io/">Lan’s Lab</a>! I am a post-graduate student and my educational background is the intersection of PDE, BSDEs, computational mathematics and machine learning. So I mainly focus on using mathematics and computer science as tools to conduct theoretical research in these fields.</p>
+        <p><a target="_blank" rel="noopener" href="https://lanyuheng.github.io/">Welcome</a>! I am a graduate student at Shandong University and my educational background spans the fields of Computational Mathematics, Pure Mathematics and Financial Mathematics. I’m interested in the interactions among the fields and their applications. </p>
+<p>My recent research has focused on deep-learning based numerical approximation algorithms for stochastic partial differential equations and high-dimensional problems. </p>
 <p>You can get to know me in all aspects through this website.</p>
-<p>You can also get a quicker understanding from my <a target="_blank" rel="noopener" href="https://maipdf.com/doc/a16188514683@pdf"><em><strong>CV</strong></em></a>.</p>
-<p>This website is divided into the following six sections.</p>
+<p>You can get to know me quickly through my <a target="_blank" rel="noopener" href="https://maipdf.com/doc/a16188514683@pdf"><em><strong>CV</strong></em></a>.</p>
+<p>You can learn more about me through my <a href="/report"><em><strong>monthly report</strong></em></a>.</p>
+<p>This website is divided into the following five sections.</p>
 <ul>
-<li><p><a href="/Education-Background">Education Background</a></p>
-<ul>
+<li><a href="/Education-Background">Education Background</a><ul>
 <li><a href="/Education-Background/graduate">Shandong University-Graduate</a></li>
 <li><a href="/Education-Background/Undergraduate">Dalian University of Technology-Undergraduate</a></li>
 </ul>
 </li>
-<li><p><a href="/Experience">Research Experience</a></p>
-<ul>
+<li><a href="/Experience">Research Experience</a><ul>
 <li><a href="/Experience/Financial-Mathematics/Optimization">Optimization of portfolio based on momentum effect and inflation</a></li>
 <li><a href="/Experience/Pure-Mathematics/Boundary">Boundary Extensions For Mappings Between Metric Spaces</a></li>
 <li><a href="/Experience/Computational-Mathematics/High">High-dimensional Data Analysis Based On PICASSO</a></li>
 <li><a href="/Experience/Computational-Mathematics/Research">Research and Application of Deep Learning</a></li>
 </ul>
 </li>
-<li><p><a href="/learning">Learning Experience</a></p>
-<ul>
-<li><a href="/learning">Seminar</a></li>
-<li><a href="/learning">Summer School</a></li>
+<li><a href="/Projects">Programming Projects</a><ul>
+<li><a href="/Projects/cpp">Fundamentals of Computer Science in C++</a></li>
+<li><a href="/Projects/cpp">Mathematical Modeling Basics in C++</a></li>
+<li><a href="/Projects/matlab">Mathematical Modeling Basics in MATLAB</a></li>
+<li><a href="/Projects/matlab">Computational Mathematics Basics in MATLAB</a></li>
+<li><a href="/Projects/python">Fundamentals of Data mining in Python</a></li>
+<li><a href="/Projects/python">Financial Mathematics Basics in Python</a></li>
+<li><a href="/Projects/latex">A latex package for taking notes</a></li>
 </ul>
 </li>
-<li><p><a href="/Projects">Programming Projects</a></p>
-<ul>
-<li><a href="/Projects/cpp">C++</a></li>
-<li><a href="/Projects/matlab">Matlab</a></li>
-<li><a href="/Projects/latex">LaTex</a></li>
+<li><a href="/Competition">Modelling Competition</a><ul>
+<li><a href="/Competition">MCM/ICM 2017</a></li>
+<li><a href="/Competition">CUMCM 2017</a></li>
 </ul>
 </li>
-<li><p><a href="/Activities">Extracurricular Activities</a></p>
-<ul>
-<li><a href="/Activities/competition">Competition</a></li>
-</ul>
-</li>
-<li><p><a href="/Hobbies">Interests and Hobbies</a></p>
-<ul>
-<li><a href="/Hobbies/reading-books">books</a></li>
-<li><a href="/Hobbies/watching-movies">movies</a></li>
-<li><a href="/Hobbies/running">running</a></li>
+<li><a href="/Hobbies">Interests and Hobbies</a><ul>
+<li><a href="/Hobbies/reading-books">Reading Books</a></li>
+<li><a href="/Hobbies/watching-movies">Watching Movies</a></li>
+<li><a href="/Hobbies/running">Running marathon</a></li>
 </ul>
 </li>
 </ul>
