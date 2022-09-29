@@ -29,7 +29,7 @@
 <meta property="og:description" content="Welcome! I am a graduate student at Shandong University and my educational background spans the fields of Computational Mathematics, Pure Mathematics and Financial Mathematics. I’m interested in the i">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2022-07-06T02:12:09.790Z">
-<meta property="article:modified_time" content="2022-09-28T14:16:48.804Z">
+<meta property="article:modified_time" content="2022-09-29T07:15:41.482Z">
 <meta property="article:author" content="Yuheng Lan">
 <meta property="article:tag" content="math">
 <meta name="twitter:card" content="summary">
@@ -242,8 +242,6 @@
 <li><a href="/Projects/cpp/cpp2">Mathematical Modeling Basics in C++</a></li>
 <li><a href="/Projects/matlab/matlab1">Mathematical Modeling Basics in MATLAB</a></li>
 <li><a href="/Projects/matlab/matlab2">Computational Mathematics Basics in MATLAB</a></li>
-<li><a href="/Projects/python/python1">Fundamentals of Data mining in Python</a></li>
-<li><a href="/Projects/python/python2">Financial Mathematics Basics in Python</a></li>
 <li><a href="/Projects/latex">A latex package for taking notes</a></li>
 </ul>
 </li>
